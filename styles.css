@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #152b38;
+    background-color: #07507d;
     padding: 55px;
     margin-top: 0;
     margin-left: 0;
@@ -111,10 +111,6 @@ h2 {
 
 }
 
-.fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
-    background-size: 180px 180px;
-}
 
 #contato {
     background-image: url('img/4965007.jpg');
