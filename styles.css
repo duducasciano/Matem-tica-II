@@ -79,7 +79,6 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    margin-right: 200px;
     background: url('img/flor.png') top right no-repeat,
         url('img/flor-esquerda.png') bottom left no-repeat;
     background-size: 180px 180px;
@@ -95,7 +94,11 @@ section {
     /* Garante que o conteúdo fica acima das imagens do background */
 }
 
+#tropicalia p{
 
+    margin-right: 200px;
+
+}
 h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 2.5em;
