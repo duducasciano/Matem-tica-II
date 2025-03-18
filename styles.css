@@ -11,9 +11,12 @@ body {
 }
 
 header {
-    background-color: #ffffff;
-}
-
+    background-color: #152b38;
+    padding: 55px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
 
 section {
     padding-bottom: 5rem;
