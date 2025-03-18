@@ -95,10 +95,10 @@ section {
 
 
 h2 {
-    font-family: 'Lemon', serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 2.5em;
     font-style: normal;
-    color: var(--laranja-claro);
+    color: #0b517d;
 }
 
 #galeria {
