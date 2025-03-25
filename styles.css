@@ -39,14 +39,7 @@ section {
     margin: 0 auto;
 }
 
-/* posicionamento para a imagem à direita */
-.img-inicio {
-    position: absolute;
-    right: 0;
-    top: 18rem;
-    width: 45rem;
-    height: auto;
-}
+.strong inicio
 
 
 .esquerda-conteudo {
