@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/1/1f/Philharmonisches_Kammerorchester_Berlin.jpg')  linear-gradient (#1a2230, #75a8a8), rgba (0, 0, 0, 0.2);
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/1/1f/Philharmonisches_Kammerorchester_Berlin.jpg');
     background-size: cover;
     background-position: right;
     border-radius: 80px;
