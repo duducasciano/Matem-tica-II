@@ -49,6 +49,11 @@ section {
     height: auto;
 }
 
+.mb-3{
+
+    linear-gradient(169deg,rgba(209, 221, 224, 1) 0%, rgba(209, 221, 224, 0.45) 52%, rgba(209, 221, 224, 1) 100%);
+
+}
 
 .esquerda-conteudo {
     display: flex;
